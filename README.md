@@ -1,4 +1,4 @@
-![Image alt](https://github.com/seryozhageneva/home.climate/blob/main/icon.jpg)
+![Image alt](https://github.com/vikklimenko/home.climate/blob/main/icon.jpg)
 
 # home.climate
 
@@ -24,11 +24,6 @@
 2. В поиске найдите @projtgbot.
 3. Начните диалог с ботом, нажав на кнопку "Start".
 4. Используйте команды, указанные выше, для взаимодействия с ботом. Все команды есть в меню бота в интерфейсе telegram.
-
-## Communication with support
-
-[I'm on the github](https://github.com/seryozhageneva)<br />
-[My telegram](https://t.me/yobb9)
 
 ## other
 
